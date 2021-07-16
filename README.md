@@ -1,5 +1,8 @@
 # Device Tree for Samsung Galaxy J4 (j4lte)
 
+### Branches
+- [android-9.0](https://github.com/HendraLab/device_samsung_j4lte/tree/android-9.0): TWRP device tree
+
 ### Device Specs
 
 > Taken from [GSMArena](https://m.gsmarena.com/samsung_galaxy_j4-9204.php)
