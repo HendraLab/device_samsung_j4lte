@@ -17,3 +17,17 @@
 | Display                 | 720 x 1280 pixels, 16:9 ratio (~267 ppi density)   |
 | Rear camera             | 13 MP, f/1.9, 28mm (wide), AF                      |
 | Front camera            | 5 MP, f/2.2                                        |
+
+### License
+
+All branch in this repository are licensed under Apache 2.0, following Android.
+
+```
+Copyright(c) Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+```
